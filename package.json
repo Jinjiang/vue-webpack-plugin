@@ -1,0 +1,33 @@
+{
+  "name": "vue-webpack-plugin",
+  "version": "0.0.1",
+  "description": "A webpack plugin to reset CSS orders in generated bundle code.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "css-loader": "^0.28.11",
+    "style-loader": "^0.20.3",
+    "vue-loader": "^14.2.2",
+    "vue-style-loader": "^4.1.0",
+    "vue-template-compiler": "^2.5.16",
+    "webpack": "^3.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jinjiang/vue-webpack-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jinjiang/vue-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/Jinjiang/vue-webpack-plugin#readme"
+}
